@@ -8,7 +8,7 @@ body, html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: url('/Users/santoshapullagura/Desktop/Stock-Portfolio-Manager/my-react-spm/public/AboutUsBackground.jpg') center/cover no-repeat;
+  background: url('/Users/RaghavBalakrishnan/Desktop/Stock-Portfolio-Manager/my-react-spm/public/AboutUsBackground.jpg') center/cover no-repeat;
   color: #fff; /* Set the text color to be visible on top of the background image */
   padding: 20px; /* Add padding to create space around the text */
 }
